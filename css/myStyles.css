@@ -1,0 +1,32 @@
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 15px;
+    color:black;
+    background-color: rgb(248, 217, 175);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(91, 112, 131)
+}
+
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    color:rgb(129, 57, 32)
+}
+
+ol{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
